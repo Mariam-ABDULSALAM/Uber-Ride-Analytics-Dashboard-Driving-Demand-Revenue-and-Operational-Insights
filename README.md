@@ -38,7 +38,7 @@ Customer ratings and feedback
 Cancellation reasons
 
 ## Tools & Technical Skills
-Advanced Microsoft Excel: Power Query (ETL), Power Pivot, and complex formula auditing.  
+### Advanced Microsoft Excel: Power Query (ETL), Power Pivot, and complex formula auditing.  
 
 Business Intelligence (BI): KPI development, star-schema data modeling, and automated reporting.  
 
@@ -56,8 +56,11 @@ This dashboard was developed using Advanced Excel, utilizing Pivot Tables and Sl
 
 Core Findings: The Success Gap
 The analysis of 10,000 ride requests revealed a critical performance gap:
+
 Completion Rate: Only 67% of ride requests are successfully completed.  
+
 Failure Rate: 33% of requests failed due to cancellations or driver unavailability.  
+
 Implication: There is a significant structural mismatch between real time demand and driver supply, particularly during peak windows.  
 
 ## Supporting Analytical Findings
