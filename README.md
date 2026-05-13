@@ -38,11 +38,11 @@ Customer ratings and feedback
 Cancellation reasons
 
 ## Tools & Technical Skills
-### Advanced Microsoft Excel: ### Power Query (ETL), Power Pivot, and complex formula auditing.  
+Advanced Microsoft Excel: Power Query (ETL), Power Pivot, and complex formula auditing.  
 
-### Business Intelligence (BI): ### KPI development, star-schema data modeling, and automated reporting.  
+Business Intelligence (BI):  KPI development, star-schema data modeling, and automated reporting.  
 
-### Data Visualization: ### Designing high-impact, interactive dashboards with slicers and dynamic charts.  
+Data Visualization: Designing high-impact, interactive dashboards with slicers and dynamic charts.  
 
 Analytical Thinking: Translating raw operational metrics into "The Why" behind business performance.
 
@@ -68,15 +68,11 @@ Peak Demand Cycles: Ride requests reach their maximum volume during evening and 
 
 Cancellation Correlation: A large portion of failed rides is directly correlated with high-demand hours, suggesting system strain.  
 
-
 Operational Inefficiency: "No Driver Available" cases serve as a primary KPI for identifying supply-side gaps.  
-
 
 Revenue Anomalies: Data modeling shows that high demand locations do not always equate to highest revenue, indicating a need for better route-value optimization.  
 
-
 Customer Sentiment: Analysis of feedback shows that low ratings are strictly associated with failed or delayed service.  
-
 
 ## Business Impact
 Revenue Leakage: Significant lost revenue from unfulfilled ride requests.  
@@ -88,15 +84,11 @@ Resource Inefficiency: Suboptimal driver utilization during off peak hours.
 
 ## Strategic Recommendations
 To enhance business performance and efficiency, I recommend the following data-driven actions:
-
 Supply Side Optimization: Implement a dynamic shift schedule to increase driver availability during evening and night peak periods.  
-
 
 Incentive Modeling: Introduce targeted driver incentive programs specifically for high-demand, high-cancellation hotspots to stabilize the completion rate.  
 
-
 Dynamic Pricing: Utilize the identified demand trends to implement dynamic pricing strategies, balancing supply and demand while maximizing revenue per trip.  
-
 
 Strategic Growth: Realign marketing and operational focus toward high-performing locations and premium ride types (e.g. Comfort, UberXL) to drive sustainable revenue growth.
 
