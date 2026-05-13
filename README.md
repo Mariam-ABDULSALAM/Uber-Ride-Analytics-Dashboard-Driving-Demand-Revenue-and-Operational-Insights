@@ -50,7 +50,7 @@ Analytical Thinking: Translating raw operational metrics into "The Why" behind b
 ## Data Visualisation
 This dashboard was developed using Advanced Excel, utilizing Pivot Tables and Slicers to allow for real time data filtering.
 
-![Uber Ride Analytics Dashboard](images/uber_dashboard.png)
+![Uber Ride Analytics Dashboard](image.png)
 
 ## Key Business Insights & Strategic Recommendations
 
