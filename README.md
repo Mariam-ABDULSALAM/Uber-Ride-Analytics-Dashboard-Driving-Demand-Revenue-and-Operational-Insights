@@ -38,11 +38,11 @@ Customer ratings and feedback
 Cancellation reasons
 
 ## Tools & Technical Skills
-### Advanced Microsoft Excel:### Power Query (ETL), Power Pivot, and complex formula auditing.  
+### Advanced Microsoft Excel: ### Power Query (ETL), Power Pivot, and complex formula auditing.  
 
-### Business Intelligence (BI):### KPI development, star-schema data modeling, and automated reporting.  
+### Business Intelligence (BI): ### KPI development, star-schema data modeling, and automated reporting.  
 
-### Data Visualization: Designing high-impact, interactive dashboards with slicers and dynamic charts.  
+### Data Visualization: ### Designing high-impact, interactive dashboards with slicers and dynamic charts.  
 
 Analytical Thinking: Translating raw operational metrics into "The Why" behind business performance.
 
